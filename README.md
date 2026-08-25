@@ -1,5 +1,10 @@
 # Monomotions Media
 
+## Scroll story media
+
+- `scroll-story/v1/` contains the lightweight frame fallback.
+- `scroll-story/v2/` contains the three accepted, original-quality H.264 films used by the smooth scroll-scrub experience.
+
 Public, versioned delivery assets for Monomotions websites.
 
 ## Scroll story v1
