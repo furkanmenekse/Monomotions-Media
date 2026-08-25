@@ -1,0 +1,27 @@
+{
+  "version": "scroll-story-v1",
+  "width": 1280,
+  "height": 720,
+  "fps": 12,
+  "format": "webp",
+  "films": [
+    {
+      "id": "film-a",
+      "title": "Signal to Idea",
+      "frames": 61,
+      "pattern": "film-a-%03d.webp"
+    },
+    {
+      "id": "film-b",
+      "title": "System to Distribution",
+      "frames": 61,
+      "pattern": "film-b-%03d.webp"
+    },
+    {
+      "id": "film-c",
+      "title": "Visibility",
+      "frames": 61,
+      "pattern": "film-c-%03d.webp"
+    }
+  ]
+}
